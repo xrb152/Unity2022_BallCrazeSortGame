@@ -1,0 +1,2 @@
+[2024-12-6 10:50:58] layer "ic_music.png": Duplicate path: ic_music.png
+[2024-12-6 10:50:58] layer "ic_sound.png": Duplicate path: ic_sound.png

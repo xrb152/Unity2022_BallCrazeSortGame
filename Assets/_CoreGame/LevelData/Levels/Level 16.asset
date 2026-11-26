@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d4940730b69aba4c8a24a413a5f8007, type: 3}
+  m_Name: Level 16
+  m_EditorClassIdentifier: 
+  reward: 50
+  theme: 1
+  layers:
+  - {fileID: 11400000, guid: 63420b28fa14aa443bfca9194cfd9929, type: 2}
+  - {fileID: 11400000, guid: 53b62a772d6286b4dae5e13c109dee51, type: 2}
+  - {fileID: 11400000, guid: dd287a0bfb63c284ebd54b070d5c9c55, type: 2}

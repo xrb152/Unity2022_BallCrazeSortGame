@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d4940730b69aba4c8a24a413a5f8007, type: 3}
+  m_Name: Level 26
+  m_EditorClassIdentifier: 
+  reward: 50
+  theme: 4
+  layers:
+  - {fileID: 11400000, guid: 4b9bde609f30e2c449757fbd0c7365e4, type: 2}
+  - {fileID: 11400000, guid: 53dd63b6066873244bbdfaf8dad68495, type: 2}
+  - {fileID: 11400000, guid: 8266a94c9451ea74d9c9469ecefc7d27, type: 2}
+  - {fileID: 11400000, guid: bb2e2b1f953f3524eb94ba9ef2f8ca0d, type: 2}

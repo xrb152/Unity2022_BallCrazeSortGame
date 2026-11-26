@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19af7658034f46d409d977b10a3d3c92, type: 3}
+  m_Name: b5 1
+  m_EditorClassIdentifier: 
+  trays:
+  - size: 6
+    trayColor: 0
+    position: {x: 4.5, y: 5}
+    direction: 1
+  - size: 6
+    trayColor: 1
+    position: {x: -4.02, y: 5}
+    direction: 1
+  - size: 6
+    trayColor: 4
+    position: {x: -4.06, y: -2.3}
+    direction: 1
+  - size: 6
+    trayColor: 1
+    position: {x: 4.53, y: -2.3}
+    direction: 1
+  - size: 8
+    trayColor: 4
+    position: {x: 1.85, y: 1.38}
+    direction: 0
+  - size: 8
+    trayColor: 0
+    position: {x: -1.92, y: 1.36}
+    direction: 0
+  - size: 8
+    trayColor: 4
+    position: {x: 0.28, y: 5}
+    direction: 1
+  - size: 8
+    trayColor: 2
+    position: {x: 0.22, y: -2.3}
+    direction: 1
